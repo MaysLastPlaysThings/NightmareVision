@@ -3,10 +3,10 @@ package funkin.backend;
 import flixel.util.FlxSignal;
 import flixel.util.FlxSignal.FlxTypedSignal;
 import flixel.group.FlxGroup.FlxTypedGroup;
-import flixel.system.FlxSound;
+import flixel.sound.FlxSound;
 
 // based off smth i seen in the funkin repo i liked the idea of it
-// @:access(flixel.system.FlxSound)
+// @:access(flixel.sound.FlxSound)
 class SyncedFlxSoundGroup extends FlxTypedGroup<FlxSound>
 {
 	public var onComplete:Void->Void = null;
