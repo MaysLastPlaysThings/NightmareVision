@@ -65,7 +65,7 @@
         {
             "name": "flxanimate",
             "type": "git",
-            "dir": "master",
+            "dir": "dotstuff-funkin-dev",
             "url": "https://github.com/FunkinCrew/flxanimate"
         },
         {
