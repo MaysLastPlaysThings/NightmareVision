@@ -65,7 +65,7 @@
         {
             "name": "flxanimate",
             "type": "git",
-            "dir": null,
+            "dir": "master",
             "url": "https://github.com/FunkinCrew/flxanimate"
         },
         {
